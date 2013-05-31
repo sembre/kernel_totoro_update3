@@ -1,0 +1,1 @@
+cmd_crypto/gf128mul.ko := /opt/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/sembre/android/GT-S5360_GB_Opensource_Update3/common/scripts/module-common.lds --build-id -o crypto/gf128mul.ko crypto/gf128mul.o crypto/gf128mul.mod.o
