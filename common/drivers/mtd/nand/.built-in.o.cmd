@@ -1,0 +1,1 @@
+cmd_drivers/mtd/nand/built-in.o :=  /opt/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o drivers/mtd/nand/built-in.o drivers/mtd/nand/nand.o drivers/mtd/nand/nand_ecc.o drivers/mtd/nand/nand_ids.o drivers/mtd/nand/nand_burst_read.o drivers/mtd/nand/nand_brcm_nvsram.o drivers/mtd/nand/nand_correct_data512.o drivers/mtd/nand/nand_calculate_ecc512.o 

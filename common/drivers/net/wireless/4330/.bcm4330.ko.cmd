@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/4330/bcm4330.ko := /opt/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/sembre/android/GT-S5360_GB_Opensource_Update3/common/scripts/module-common.lds --build-id -o drivers/net/wireless/4330/bcm4330.ko drivers/net/wireless/4330/bcm4330.o drivers/net/wireless/4330/bcm4330.mod.o

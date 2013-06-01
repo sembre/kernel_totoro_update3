@@ -1,0 +1,16 @@
+kernel/drivers/char/raw.ko
+kernel/drivers/char/tpm/tpm.ko
+kernel/drivers/char/tpm/tpm_nsc.ko
+kernel/drivers/char/tpm/tpm_atmel.ko
+kernel/drivers/misc/eeprom/eeprom_93cx6.ko
+kernel/drivers/mfd/sm501.ko
+kernel/drivers/mfd/htc-pasic3.ko
+kernel/drivers/net/wireless/4330/bcm4330.ko
+kernel/drivers/usb/gadget_brcm/brcm_test_drv.ko
+kernel/drivers/usb/gadget_brcm/brcm_switch.ko
+kernel/drivers/input/serio/serport.ko
+kernel/drivers/input/serio/serio_raw.ko
+kernel/drivers/input/gameport/gameport.ko
+kernel/drivers/input/gameport/lightning.ko
+kernel/drivers/input/gameport/ns558.ko
+kernel/drivers/ssb/ssb.ko

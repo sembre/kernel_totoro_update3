@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  /opt/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/silabs_f760.o drivers/input/touchscreen/bl_master.o 

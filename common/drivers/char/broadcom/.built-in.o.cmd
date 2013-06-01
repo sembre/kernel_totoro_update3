@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/built-in.o :=  /opt/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o drivers/char/broadcom/built-in.o drivers/char/broadcom/cacheops.o drivers/char/broadcom/bcm_auxadc.o drivers/char/broadcom/bcm_i2sdai.o drivers/char/broadcom/i2s_drv_osdal.o drivers/char/broadcom/bcm_otp.o 

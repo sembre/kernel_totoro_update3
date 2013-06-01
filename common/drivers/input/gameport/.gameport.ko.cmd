@@ -1,0 +1,1 @@
+cmd_drivers/input/gameport/gameport.ko := /opt/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/sembre/android/GT-S5360_GB_Opensource_Update3/common/scripts/module-common.lds --build-id -o drivers/input/gameport/gameport.ko drivers/input/gameport/gameport.o drivers/input/gameport/gameport.mod.o

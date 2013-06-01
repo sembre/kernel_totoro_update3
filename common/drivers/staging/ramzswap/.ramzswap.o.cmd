@@ -1,0 +1,1 @@
+cmd_drivers/staging/ramzswap/ramzswap.o := /opt/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o drivers/staging/ramzswap/ramzswap.o drivers/staging/ramzswap/ramzswap_drv.o drivers/staging/ramzswap/xvmalloc.o 

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget_brcm/brcm_test_drv.ko := /opt/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/sembre/android/GT-S5360_GB_Opensource_Update3/common/scripts/module-common.lds --build-id -o drivers/usb/gadget_brcm/brcm_test_drv.ko drivers/usb/gadget_brcm/brcm_test_drv.o drivers/usb/gadget_brcm/brcm_test_drv.mod.o
